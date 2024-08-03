@@ -1,6 +1,6 @@
 ![Search Programmer](https://github.com/user-attachments/assets/c9514742-a245-4bf0-9425-c47bae2a9406)
 
-> Plan and develop web search programs.
+> Plan and develop web search automation programs.
 
 #
 
