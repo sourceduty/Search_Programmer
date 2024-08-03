@@ -16,6 +16,8 @@ Beyond search optimization, the GPT also focuses on enhancing user experience by
 [Python Diagnostics](https://chat.openai.com/g/g-NnT93PRw6-python-diagnostics)
 <br>
 [Python Architect](https://chat.openai.com/g/g-ltK2f7Fkk-python-architect)
+<br>
+[Search Multiplier](https://github.com/sourceduty/Search_Multiplier)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
