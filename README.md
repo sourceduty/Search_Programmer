@@ -20,6 +20,8 @@ Beyond search optimization, the GPT also focuses on enhancing user experience by
 [Search Multiplier](https://github.com/sourceduty/Search_Multiplier)
 <br>
 [Search Classification](https://github.com/sourceduty/Search_Classification)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
